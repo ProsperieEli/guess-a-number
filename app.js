@@ -2,6 +2,7 @@
 const myButton = document.getElementById('buttonEl'); 
 const myInput = document.getElementById('guess');
 const endDisplay = document.getElementById('display-results');
+typeof Number;
 //const restart = document.getElementById('reset');
 // initialize global state
 let correctAnswer = 21;
